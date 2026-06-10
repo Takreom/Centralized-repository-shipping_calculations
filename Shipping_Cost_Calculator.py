@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# Aquí hay una nueva actualización por Takreomgit config --global user.email "your-email@example.com"
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
